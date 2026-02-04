@@ -2,13 +2,13 @@
 <svg width="200px" height="60px" viewBox="0 0 200 60" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#FFD15C;stop-opacity:1" />
-            <stop offset="100%" style="stop-color:#FF4C60;stop-opacity:1" />
+            <stop offset="0%" style="stop-color:#FF4C60;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#6C6CE5;stop-opacity:1" />
         </linearGradient>
     </defs>
 
     <!-- Main Text: AI RESEARCH SCIENTIST -->
-    <text x="10" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFD15C" letter-spacing="1">AI RESEARCH</text>
+    <text x="10" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#353353" letter-spacing="1">AI RESEARCH</text>
     <text x="10" y="48" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#FF4C60" letter-spacing="0.5">SCIENTIST</text>
 
     <!-- Accent line -->

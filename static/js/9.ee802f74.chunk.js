@@ -1,0 +1,2 @@
+(this["webpackJsonpsalim-amoukou-profile"]=this["webpackJsonpsalim-amoukou-profile"]||[]).push([[9],{73:function(s,a,i){"use strict";i.r(a),a.default=i.p+"static/media/thesis.5ad7f9ae.md"}}]);
+//# sourceMappingURL=9.ee802f74.chunk.js.map
