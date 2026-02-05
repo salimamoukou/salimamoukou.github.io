@@ -1,2 +1,0 @@
-(this["webpackJsonpsalim-amoukou-profile"]=this["webpackJsonpsalim-amoukou-profile"]||[]).push([[6],{71:function(a,s,u){"use strict";u.r(s),s.default=u.p+"static/media/counterfactual_rules.0f8618db.md"}}]);
-//# sourceMappingURL=6.d0ee0473.chunk.js.map
