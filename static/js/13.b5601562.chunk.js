@@ -1,0 +1,2 @@
+(this["webpackJsonpsalim-amoukou-profile"]=this["webpackJsonpsalim-amoukou-profile"]||[]).push([[13],{77:function(a,s,i){"use strict";i.r(s),s.default=i.p+"static/media/tosteer.4a10a183.md"}}]);
+//# sourceMappingURL=13.b5601562.chunk.js.map

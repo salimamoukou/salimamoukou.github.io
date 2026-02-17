@@ -1,0 +1,6 @@
+# Abstract
+
+We propose a unified framework for addressing three key challenges of distribution shift: \annot{1} estimating a model’s performance on an unlabeled target domain, \annot{2} explaining the shift by identifying the features responsible, and \annot{3} improving the target domain performance. Our method, Entropic Projection Alignment (\epr{}), aligns the source distribution to the target by matching carefully selected moments while simultaneously minimising the $\KL$ divergence from the source. This formulation yields a unique closed-form solution for importance weights, achieving robustness through implicit variance control. Drawing on domain adaptation theory, we establish that moment matching is sufficient for reliable estimation and adaptation, avoiding the need for full density ratio recovery. Extensive experiments, together with strong theoretical guarantees, demonstrate that \epr{} consistently outperforms state-of-the-art baselines while offering substantial computational efficiency.
+
+[Open paper](https://drive.google.com/file/d/1GuZGFTHWrwX0tQFIy9P5cuwNvmgdl5Rd/view?usp=drive_link)
+
