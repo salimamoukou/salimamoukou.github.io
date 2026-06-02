@@ -1,0 +1,21 @@
+# Abstract
+
+Bagging-based ensembles, most notably Adaptive
+Random Forests, are among the strongest performers for learning from data streams. A common
+denominator across these methods is their reliance
+on Hoeffding Trees as base learners, which grow decision trees incrementally by testing whether
+a candidate split is significantly better than its
+alternatives using concentration inequalities. Despite their empirical success, existing variants lack
+valid statistical guarantees. Current analyses rely
+on fixed-sample concentration bounds, while split
+decisions are made using data-dependent stopping rules, which invalidates their guarantees and
+can drive the probabilty of incorrect splits to one.
+We introduce a principled alternative based on
+anytime-valid inference. Our method provides: (i)
+anytime-valid control of false splits under arbitrary data streams, including non-stationary settings; (ii) finite commitment time under a predictive advantage; and (iii) under stationary i.i.d.
+data, risk is monotone decreasing and strictly improves at every split. Empirically, we evaluate
+both standalone trees and their use within Adaptive Random Forests on non-stationary streams.
+Our method improves performance while producing substantially smaller trees.
+
+[Open paper](https://arxiv.org/pdf/2605.31239v1)
+
